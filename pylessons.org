@@ -1,0 +1,7 @@
+* Basics
+#+BEGIN_SRC python
+  print("Hello world")
+#+END_SRC
+
+#+RESULTS:
+: None
